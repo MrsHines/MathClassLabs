@@ -1,13 +1,17 @@
-//© A+ Computer Science  -  www.apluscompsci.com
-//Name -
-//Date -
-//Class -
-//Lab  - 
+// Don't forget to add your documentation!
 
 public class Circle
 {
 	private double radius;
 	private double area;
+	
+	public Circle()
+	{
+	}
+	
+	public Circle(double radius)
+	{
+	}
 
 	public void setRadius(double rad)
 	{
