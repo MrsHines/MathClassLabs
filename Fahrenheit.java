@@ -1,8 +1,4 @@
-//© A+ Computer Science  -  www.apluscompsci.com
-//Name -
-//Date -
-//Class -
-//Lab  - 
+//Don't forget to add your documentation
 
 public class Fahrenheit
 {
